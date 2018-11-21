@@ -1,0 +1,2 @@
+# HotelMager
+Hotel Acount Keeper.
